@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an issue where the expected behavior of the `:hover` pseudo-class is not met.  The inner `<div>` with the class `inner` should change color on hover of the outer `<div>` with the class `outer`, but it does not. This is because the `:hover` pseudo-class is not inherited.

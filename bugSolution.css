@@ -1,0 +1,5 @@
+/* bugSolution.css */
+.outer:hover .inner {
+  background-color: lightblue;
+}
+/*This solution directly targets the inner div when the outer div is hovered, solving the inheritance problem.*/
